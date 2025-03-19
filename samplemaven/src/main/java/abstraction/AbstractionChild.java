@@ -1,6 +1,6 @@
 package abstraction;
 
-public class AbstractionChild extends AbstractionParent {
+public class AbstractionChild  extends AbstractionParent {
 	
 
 	public static void main(String[] args) {
